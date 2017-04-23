@@ -1,7 +1,7 @@
 i = 20
 found = False
 while(not found):
-    i+=1
+    i+=10
     j=1
     while(i%j==0):
         j+=1
